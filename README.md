@@ -96,7 +96,7 @@ Output from single omics will be in .tsv format, which is based on different fea
 
 3-David Juma
 
-4-Mohammed Emon (https://github.com/aakilkhanemon)
+4-[Mohammed Emon](https://github.com/aakilkhanemon)
 
 ### Slides 
 
